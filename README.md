@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Kaushl2208/Kaushl2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 - 🔭 I’m currently working on fossology/atarashi
@@ -12,4 +11,4 @@
 - 📫 How to reach me: @Kaushll2208 on web
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I stare at people and make them SUppperr Awkward.
--->
+
