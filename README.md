@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Projects related to my skills
 - 🤔 I’m looking for help with fossology/nirjas
 - 💬 Ask me about Software Development and Universal Facts
-- 📫 How to reach me: @Kaushll2208 on web
+- 📫 How to reach me: @Kaushl2208 on web
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I stare at people and make them SUppperr Awkward.
 
